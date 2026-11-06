@@ -1,94 +1,68 @@
-# NexusGGR FiversCan casino API aggregator — slots, live casino, sportsbook, lottery, Aviator & mini games, whitelabel
+# NexusGGR FiversCan Casino API Aggregator
+
+NexusGGR is an **iGaming API aggregator** for operators and platform owners building online casino and sports betting experiences. Connect slots, live casino, sportsbook, lottery, and mini games through a unified platform, with whitelabel options for launching under your own brand.
+
+Explore the platform: [NexusGGR live demo](https://nexusggr.games?utm_source=github&utm_medium=readme&utm_campaign=casino-api)
 
 <p align="center">
-  <img src="nexusggr.webp" alt="NexusGGR Casino API Aggregator — iGaming slots, live casino and sportsbook whitelabel API platform" width="700"/>
+  <img src="nexusggr.webp" alt="NexusGGR iGaming platform for casino games, live casino, and sportsbook" width="700"/>
 </p>
 
-**NexusGGR** is a unified **casino API aggregator** for iGaming operators, agents, and platform owners. Integrate **slots API**, **live casino API**, **sportsbook API**, **lottery API**, **Aviator & mini games**, and **whitelabel betting** solutions through a single integration — powered by leading providers including **Pragmatic Play**, **PG Soft**, and more.
+## Casino and sportsbook API platform
 
-🌐 **[Live Demo](https://nexusggr.games?utm_source=github&utm_medium=readme&utm_campaign=casino-api)**
+NexusGGR brings multiple iGaming product categories together for operators who want a single integration path instead of managing separate platform connections for every game category. It is designed for FiversCan-compatible workflows and supports casino and sports betting use cases.
 
----
+The platform is relevant to teams searching for a **casino API**, **casino API aggregator**, **slots API**, **live casino API**, **sportsbook API**, or **whitelabel betting platform**. For Brazil and LATAM audiences, it also serves the cassino API use case; for Turkish-language betting searches, bahis is another relevant term.
 
-## About NexusGGR Casino API
+## Features
 
-NexusGGR provides a full-stack **iGaming API** solution for launching and scaling online casino and sports betting platforms. Whether you need a **casino API**, **cassino API** (Brazil/LATAM markets), **bahis sports API**, or a complete **whitelabel betting** backend — NexusGGR delivers one API layer to connect hundreds of games and sports markets.
+- **Slots API** — Access slot games from Pragmatic Play, PG Soft, and additional studios.
+- **Live casino API** — Live table-game categories including baccarat, roulette, blackjack, and game shows.
+- **Sportsbook API** — Pre-match and live betting markets.
+- **Lottery and mini games** — Lottery, Aviator, Mines, Plinko, Dice, Hi-Lo, Keno, and more.
+- **Whitelabel platform** — Launch a casino or betting experience under your own brand.
+- **Operator and agent tools** — Panels for managing players, agents, reports, and settlements.
+- **Unified integration** — Bring supported product categories together through one platform integration.
 
-Built for **FiversCan**-compatible workflows and modern aggregator architectures, NexusGGR helps operators go live faster with less integration overhead.
+## Game categories
 
-## Key Features
+| Category | Examples |
+| --- | --- |
+| Slots | Pragmatic Play, PG Soft, and other slot studios |
+| Live casino | Baccarat, roulette, blackjack, and game shows |
+| Sportsbook | Pre-match and live sports betting |
+| Lottery | Lottery draw games |
+| Aviator and mini games | Aviator, Mines, Plinko, Dice, Hi-Lo, and Keno |
 
-- **Slots API** — Pragmatic Play, PG Soft and 50+ studios
-- **Live Casino API** — Baccarat, roulette, blackjack, game shows
-- **Sportsbook API** — Pre-match and live betting
-- **Lottery API** — Lottery draw games
-- **Aviator & Mini Games** — Aviator, Mines, Plinko, Dice, Hi-Lo, Keno and more
-- **Whitelabel** — Launch under your own brand, multi-currency and multi-language
-- **Single Integration** — One API endpoint for every category above
-- **Agent & Operator Panels** — Manage players, agents, reports, and settlements
-- **Fast Deployment** — Launch your iGaming platform in days, not months
+## Who is NexusGGR for?
 
-## Supported Game Providers
+- iGaming operators launching or expanding an online casino or sportsbook
+- Agents and master agents managing betting networks
+- Platform developers evaluating a casino API aggregator
+- Whitelabel partners looking for casino and betting platform options
 
-| Category | Providers |
-|----------|-----------|
-| **Slots** | Pragmatic Play, PG Soft, and 50+ slot studios |
-| **Live Casino** | Evolution-style live tables: baccarat, roulette, blackjack, sic bo, game shows |
-| **Sportsbook** | Pre-match and live betting: football, basketball, tennis, cricket, esports, virtual sports |
-| **Lottery** | Lottery draw games |
-| **Aviator & Mini Games** | Aviator, Mines, Plinko, Dice, Hi-Lo, Keno and more |
+## Explore NexusGGR
 
-## Who Is This For?
+Visit the [NexusGGR live demo](https://nexusggr.games?utm_source=github&utm_medium=readme&utm_campaign=casino-api) to learn more about the platform and its supported products.
 
-- **iGaming operators** launching a new online casino or sportsbook
-- **Agents & master agents** building a multi-tier betting network
-- **Platform developers** needing a reliable **casino API aggregator**
-- **LATAM & Asia markets** — cassino API, bahis, and regional payment support
-- **Whitelabel partners** seeking turnkey betting infrastructure
-
-## Why Choose NexusGGR?
-
-| Benefit | Description |
-|---------|-------------|
-| **One API, All Products** | Slots, live casino, sportsbook, lottery, and mini games under one contract |
-| **Proven Infrastructure** | Stable API uptime for high-traffic iGaming platforms |
-| **Scalable Architecture** | From startup operators to enterprise-level volume |
-| **Dedicated Support** | Support for integration and operations |
-| **Competitive GGR** | Flexible commercial terms for agents and operators |
-
-## Quick Links
-
-| Resource | Link |
-|----------|------|
-| 🎰 **Live Demo & Platform** | [nexusggr.games](https://nexusggr.games?utm_source=github&utm_medium=readme&utm_campaign=casino-api) |
-
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### What is a casino API aggregator?
 
-A **casino API aggregator** connects your platform to multiple game providers through a single integration. Instead of signing separate contracts with Pragmatic Play, PG Soft, and others, you integrate once with NexusGGR and access the full game catalog.
+A casino API aggregator provides a connection between an iGaming platform and multiple game categories or providers, helping operators manage integrations through a unified platform.
 
-### Does NexusGGR support live casino and sports betting?
+### What products does NexusGGR support?
 
-Yes. NexusGGR covers **slots API**, **live casino API**, and **sportsbook API** — including pre-match and in-play betting markets — plus **lottery API** and **Aviator & mini games** (Mines, Plinko, Dice, Hi-Lo, Keno and more).
+NexusGGR covers slots, live casino, sportsbook, lottery, and mini games. Availability and supported content may depend on the platform setup.
 
-### Is NexusGGR a whitelabel betting solution?
+### Does NexusGGR offer a whitelabel casino platform?
 
-Yes. NexusGGR offers **whitelabel betting** and casino infrastructure so you can launch under your own brand with custom domains, themes, and player management.
+NexusGGR offers whitelabel options for operators who want to launch a casino or betting experience under their own brand. Visit the [live demo](https://nexusggr.games?utm_source=github&utm_medium=readme&utm_campaign=casino-api) for platform details.
 
-### Which markets does NexusGGR support?
+### Where can I see the platform?
 
-NexusGGR serves global iGaming markets including Asia, Europe, and LATAM — with support for regional terms like **cassino API** (Brazil/Portugal) and **bahis** (Turkey/MENA sports betting).
-
-### How do I get started?
-
-Visit the [live demo](https://nexusggr.games?utm_source=github&utm_medium=readme&utm_campaign=casino-api) to explore the platform.
+Open the [NexusGGR live demo](https://nexusggr.games?utm_source=github&utm_medium=readme&utm_campaign=casino-api).
 
 ---
 
-<p align="center">
-  <strong>NexusGGR</strong> — Casino API · Slots API · Live Casino API · Sportsbook API · Lottery API · Aviator & Mini Games · iGaming Whitelabel<br>
-  <sub>Last updated: 2026-10-28 14:06 UTC</sub>
-</p>
-
-<!-- last-updated: 2026-10-28 14:06 UTC -->
+**NexusGGR** — iGaming API aggregator for casino games, live casino, sportsbook, lottery, and whitelabel platform solutions.
